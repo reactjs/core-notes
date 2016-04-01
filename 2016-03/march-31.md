@@ -1,4 +1,4 @@
-## March 31
+## March 31 ([discuss](https://github.com/reactjs/core-notes/pull/1))
 
 ### Fostering external collaboration
 
@@ -51,3 +51,7 @@
 * The plan is to convert some of the Facebook products to use JS styles and profile different approaches
 * If there are good results we might eventually consider supporting something like this in React DOM
 * **This work is tied to internal infra, is very experimental, and might not give any results**
+
+------------
+
+Please feel free to discuss these notes in the [corresponding pull request](https://github.com/reactjs/core-notes/pull/1).
