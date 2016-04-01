@@ -10,7 +10,7 @@
 
 #### PRs should not get stale
 
-* Closed a bunch of old PRs recently
+* We recently closed a bunch of old PRs
 * If we don’t want something, we should close it sooner and communicate why
 * Major source of confusion is that no one knows which release a particular PR or issue is a priority for
 * Having a roadmap would help this tremendously, but even if we don’t have one, just tagging PRs with milestones would help ensure timely responses, etc
