@@ -50,7 +50,7 @@
 * [Christopher](http://twitter.com/vjeux) is experimenting with converting internal CSS build pipeline at Facebook to output JS instead of CSS
 * The plan is to convert some of the Facebook products to use JS styles and profile different approaches
 * If there are good results we might eventually consider supporting something like this in React DOM
-* **This work is tied to internal infra, is very experimental, and might not give any results**
+* **This work is tied to the internal Facebook CSS build pipeline, is very experimental, and might not give any results**
 
 ------------
 
