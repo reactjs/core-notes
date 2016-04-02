@@ -47,7 +47,7 @@
 
 * There are *tons* of different ways to render JS styles (see Radium, CSS Modules, React Native Web, etc)
 * One of the biggest things we need to figure out is performance
-* Chris is experimenting with converting internal CSS build pipeline at Facebook to output JS instead of CSS
+* [Christopher](http://twitter.com/vjeux) is experimenting with converting internal CSS build pipeline at Facebook to output JS instead of CSS
 * The plan is to convert some of the Facebook products to use JS styles and profile different approaches
 * If there are good results we might eventually consider supporting something like this in React DOM
 * **This work is tied to internal infra, is very experimental, and might not give any results**
