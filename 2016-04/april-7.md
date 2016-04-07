@@ -17,10 +17,11 @@
 
 #### React Native Issue
 
-* `react-native init` install `react@latest` which would break when we release React 15.
+* `react-native init` installs `react@latest` which would break when we release React 15.
 * Sorted out with [James Ide](https://twitter.com/ji).
 * Since we communicate with [Exponent](https://twitter.com/exponentjs) frequently, we were able to fix this preemptively.
 * We’ll release 15 but keep 0.14 `latest` on npm for a while (hopefully a few hours) until React Native gets a fix.
+* It will take some time to update React Native to use React 15, just like before.
 
 #### Branch Planning
 
