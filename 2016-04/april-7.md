@@ -34,7 +34,7 @@
 #### Rolling Changelog
 
 * Let’s maintain a continuously updated changelog so we don’t have to spend hours (sometimes days!) writing release blog entries.
-* We need to figure out how to where to put “unreleased” entries, how to handle merge conflicts, etc.
+* We need to figure out where to put “unreleased” entries, how to handle merge conflicts, etc.
 * Leaning towards having an oncall or whoever merges things updating the changelog.
 * What if whenever we sync React master internally to Facebook (once a couple of weeks), we also generate the changelog?
   * This means that whoever does the sync has to do a little more work.
