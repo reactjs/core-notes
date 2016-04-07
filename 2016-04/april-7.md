@@ -1,4 +1,4 @@
-## April 7 ([discuss](https://github.com/reactjs/core-notes/pull/2))
+## April 7 ([discuss](https://github.com/reactjs/core-notes/pull/3))
 
 ### Releasing React 15
 
