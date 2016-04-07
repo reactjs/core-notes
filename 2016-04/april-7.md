@@ -128,3 +128,8 @@
   * Is this going to change? Yes, but not right now.
   * Again, we should be able to iterate on React core and downstream dependencies of React core independently.
   * Lots left to figure out here.
+
+
+------------
+
+Please feel free to discuss these notes in the [corresponding pull request](https://github.com/reactjs/core-notes/pull/3).
