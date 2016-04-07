@@ -69,7 +69,7 @@
 * 0.14 already created HTML strings on initial render, and attributes are the closest alternative.
 * If we use attributes for everything we could just drop the whitelist completely (and treat only form components specially), which we may or may not want to do but it seems appealing.
 * For the specific regression that relying on attributes introduced ([not setting `value=""` on option tags](https://github.com/facebook/react/issues/6219)), we _can’t_ use properties because there is a semantic difference between `value=""` and no attribute, but `.value` is `''` in both cases.
-* We’re not currently invested into designing a rich API for React DOM props right now so less maintenance burden there seems beneficial.
+* Since we’re not invested into designing a rich API for React DOM props right now, having less maintenance burden in this area and making fewer decisions is appealing.
 
 #### Reasons to Use Properties over Attributes
 
