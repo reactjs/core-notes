@@ -6,7 +6,7 @@
 
 * React 15 is shipping! 🎉
 * Docs should be in good shape.
-* Just need to proofread the [blog post]([#6396](https://github.com/facebook/react/pull/6396)) and ship it.
+* Just need to proofread the [blog post](https://github.com/facebook/react/pull/6396) and ship it.
 
 #### Relay Test Failure
 
