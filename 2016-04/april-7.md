@@ -81,7 +81,7 @@
 
 #### Conclusion
 
-* No conlusion yet. We plan to come back to this next week.
+* No conclusion yet. We plan to come back to this next week.
 * React 15 uses attributes.
 * The regressions in RCs appear fixed.
 
