@@ -57,7 +57,7 @@
 ### Adding Flow to React
 
 * Flow has helped engineers at Facebook immensely, and it might help us here:
-  * WeЪd like to be more confident in the changes we want to make.
+  * We’d like to be more confident in the changes we want to make.
   * Might help newcomers be more comfortable making changes in the codebase.
   * [Ben](https://twitter.com/soprano) might experiment with adding it in some places, but we might want to hold off.
 * [Sebastian](https://twitter.com/sebmarkbage)’s concerns:
