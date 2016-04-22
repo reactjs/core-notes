@@ -15,7 +15,7 @@
 #### Release was pretty rocky
 * We didn’t have a cohesive enough story around what was to be included in the release.
 * Now that we have more dependants (RN, many teams internally and externally) it’s becoming an issue.
-* Examples of changes that should we should have planned better:
+* Examples of changes that we should have planned better:
   * [SVG attributes were passed through without a whitelist in RC1](https://github.com/facebook/react/pull/5714), then [we reverted this in RC2](https://github.com/zpao/react/commit/08fa7fe50707d4c7fe06861e0875b3fab00ea048).
   * We [switched to using attributes](https://github.com/facebook/react/pull/1510) by default but haven’t tested this as thoroughly as we should have, and it caused a few regressions, plus later it turned out that we didn’t all agree on this change ([Sebastian](https://twitter.com/sebmarkbage) was out of the loop).
 * Our default in the past has been to just work on everything individually.
