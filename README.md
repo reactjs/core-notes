@@ -12,6 +12,7 @@ The repo format is inspired by [Ember Core Notes](https://github.com/emberjs/cor
 
 #### April
 
+* April 14 (meeting skipped)
 * [April 7](https://github.com/reactjs/core-notes/blob/master/2016-04/april-7.md) ([discuss](https://github.com/reactjs/core-notes/pull/3))
 
 #### March
