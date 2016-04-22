@@ -1,4 +1,4 @@
-## April 21 ([discuss](https://github.com/reactjs/core-notes/pull/6))
+## April 21 ([discuss](https://github.com/reactjs/core-notes/pull/8))
 
 ### Attendees
 
@@ -76,4 +76,4 @@
 
 ------------
 
-Please feel free to discuss these notes in the [corresponding pull request](https://github.com/reactjs/core-notes/pull/6).
+Please feel free to discuss these notes in the [corresponding pull request](https://github.com/reactjs/core-notes/pull/8).
