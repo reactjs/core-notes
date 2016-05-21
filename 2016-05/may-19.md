@@ -58,7 +58,7 @@
 * Originally we planned to ship 15.0.3 and 15.1.0, but we don’t plan to maintain two branches anyway, so not worth doing now.
 * We will release React versions every two weeks, a couple of days before React Native RCs.
 * We might start using [Lerna](https://lernajs.io), it works great for Babel.
-* Do we ship from a branch or from master? No conlusion yet.
+* Do we ship from a branch or from master? No conclusion yet.
 
 ------------
 
