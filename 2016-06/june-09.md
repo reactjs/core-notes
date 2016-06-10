@@ -41,7 +41,7 @@
 
 * Ben is enabling class property transform in the internal Facebook build pipeline.
 
-### Keyan
+#### Keyan
 
 * Error code work is finished! ([#6882](https://github.com/facebook/react/pull/6882), [#6946](https://github.com/facebook/react/pull/6946), [#6948](https://github.com/facebook/react/pull/6948))
 * Will start working on a new codemod to convert more components to classes with property initializers.
