@@ -18,7 +18,7 @@
 * Making progress on the incremental reconciler ([PRs](https://github.com/facebook/react/pulls?utf8=%E2%9C%93&q=+fiber+is%3Apr+is%3Aclosed+author%3Asebmarkbage+)).
 * The next step is to support forking for pausing and cancelling reconciliation.
 * After that, the new reconciler needs to implement flushing changes (e.g. to the DOM).
-* This would take the bulk of the month, and then will be working towards reaching feature parity with existing reconciler.
+* After that, getting parity with the existing APIs. This would take the bulk of the month, and then will be working towards reaching feature parity with existing reconciler.
 
 ##### Observations about `setState()`
 
