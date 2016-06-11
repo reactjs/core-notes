@@ -59,7 +59,7 @@
 * Ben is working on enabling property initializers in Facebook codebase.
 * Keyan is working on a new `createClass` → ES class component transform that uses property initializers (rather than binding in the constructor).
 * Dan is working on getting rid of some of the internal mixins on Facebook websites.
-* Still need to figure out what to do with `PureRenderMixin`.
+* Mixins: if a component _only_ uses `PureRenderMixin`, it will be converted to an ES6 class that extends [`React.PureComponent`](https://github.com/facebook/react/pull/6914). Otherwise it will be left untouched for now.
 * Property initializers are currently extremely verbose with Flow, and this needs to be fixed.
 
 ### Proposals Champion Process
