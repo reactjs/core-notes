@@ -58,7 +58,7 @@
 
 * It is overabstracted, and we can simplify code by baking support for some [“plugins”](https://github.com/facebook/react/tree/1a0e3a32150468223d6f9fd0125db0f8503b76d6/src/renderers/dom/client/eventPlugins) right into it.
 * There is some code duplication we can reduce in [the event whitelist](https://github.com/facebook/react/blob/1a0e3a32150468223d6f9fd0125db0f8503b76d6/src/renderers/dom/client/eventPlugins/SimpleEventPlugin.js).
-* Some weird patterns like [`keyOf()`](https://github.com/facebook/react/blob/1a0e3a32150468223d6f9fd0125db0f8503b76d6/src/renderers/dom/client/eventPlugins/SimpleEventPlugin.js#L40-L41) exist to be compatible with [GCC](https://www.google.co.uk/search?q=google+closure+compiler&gws_rd=cr&ei=O7x-V_66AonOgAbov6GACA). Perhaps we could find another way to fix this?
+* Some weird patterns like [`keyOf()`](https://github.com/facebook/react/blob/1a0e3a32150468223d6f9fd0125db0f8503b76d6/src/renderers/dom/client/eventPlugins/SimpleEventPlugin.js#L40-L41) exist to be compatible with [GCC](https://developers.google.com/closure/compiler/). Perhaps we could find another way to fix this?
 
 ------------
 
