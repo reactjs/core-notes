@@ -3,6 +3,7 @@
 ### Attendees
 
 * [Ben](https://twitter.com/soprano) (React)
+* [Christopher](https://twitter.com/vjeux) (React)
 * [Dan](https://twitter.com/dan_abramov) (React)
 * [Keyan](https://twitter.com/keyanzhang) (React, intern)
 * [Paul](https://twitter.com/zpao) (React)
