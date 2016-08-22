@@ -12,6 +12,8 @@ The repo format is inspired by [Ember Core Notes](https://github.com/emberjs/cor
 
 #### July
 
+* [July 21](https://github.com/reactjs/core-notes/blob/master/2016-07/july-21.md) ([discuss](https://github.com/reactjs/core-notes/pull/24))
+* July 14 (no meeting)
 * [July 7](https://github.com/reactjs/core-notes/blob/master/2016-07/july-07.md) ([discuss](https://github.com/reactjs/core-notes/pull/23))
 
 #### June
