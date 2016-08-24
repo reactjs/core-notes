@@ -54,7 +54,7 @@
 
 #### Plan for Reconcilers and Renderers
 
-* Paradoxically, `react` package won’t include include the React algorithm (“reconciler”) anymore.
+* Paradoxically, `react` package won’t include the React algorithm (“reconciler”) anymore.
 * For example, `React.createElement()` and `React.Component` stay there, but not the reconciler itself.
 * This makes sense because components relying on `react` don’t actually care how reconciler is implemented.
 * The React reconciler will exist in renderer packages such as `react-dom` and `react-native`.
