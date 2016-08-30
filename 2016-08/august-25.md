@@ -19,7 +19,7 @@ We had no meeting because of [React Rally](http://reactrally.com) but we have so
 
 * Spent a couple of weeks improving performance of React in development. (out in [15.3.1](https://github.com/facebook/react/releases/tag/v15.3.1))
 * Fixed some issues in React DevTools and learned to release them. ([#409](https://github.com/facebook/react-devtools/pull/409), [#410](https://github.com/facebook/react-devtools/pull/410), [#411](https://github.com/facebook/react-devtools/pull/411), [#412](https://github.com/facebook/react-devtools/pull/412), [#413](https://github.com/facebook/react-devtools/pull/413))
-* Released a few updates to Create React App ([0.2.2](https://github.com/.../create-react-app/releases/tag/v0.2.2), [0.2.3](https://github.com/.../create-react-app/releases/tag/v0.2.3))
+* Released a few updates to Create React App ([0.2.2](https://github.com/facebookincubator/create-react-app/releases/tag/v0.2.2), [0.2.3](https://github.com/facebookincubator/create-react-app/releases/tag/v0.2.3))
 * Fixed an annoying warning I previously introduced ([#7548](https://github.com/facebook/react/pull/7548))
 * Added Chrome Timeline integration to ReactPerf ([#7549](https://github.com/facebook/react/pull/7549), scheduled for 15.4.0)
 * Going on a vacation from September 4th to September 20th.
