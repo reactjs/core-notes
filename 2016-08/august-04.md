@@ -36,7 +36,7 @@
 
 * Shipped [React 15.3.0](https://github.com/facebook/react/releases/tag/v15.3.0).
 * Working on internal codemods that remove code directly `import`ing modules from React on Facebook.com.
-* Switched the documentation to use [npmcdn](https://npmcdn.com/#/). ([#7394](https://github.com/facebook/react/pull/7394))
+* Switched the documentation to use [unpkg](https://unpkg.com/#/). ([#7394](https://github.com/facebook/react/pull/7394))
 
 ------------
 
