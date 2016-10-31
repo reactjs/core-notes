@@ -10,6 +10,17 @@ The repo format is inspired by [Ember Core Notes](https://github.com/emberjs/cor
 
 ## Recent Notes
 
+#### October
+
+* [October 27](https://github.com/reactjs/core-notes/blob/master/2016-10/october-27.md) ([discuss](https://github.com/reactjs/core-notes/pull/35))
+* [October 20](https://github.com/reactjs/core-notes/blob/master/2016-10/october-20.md) ([discuss](https://github.com/reactjs/core-notes/pull/34))
+* [October 13](https://github.com/reactjs/core-notes/blob/master/2016-10/october-13.md) ([discuss](https://github.com/reactjs/core-notes/pull/33))
+* October 6 (no meeting)
+
+#### September
+
+* No regular meetings ([what happened?](https://github.com/reactjs/core-notes/issues/31#issuecomment-255113577))
+
 #### August
 
 * [August 25](https://github.com/reactjs/core-notes/blob/master/2016-08/august-25.md) ([discuss](https://github.com/reactjs/core-notes/pull/28))
