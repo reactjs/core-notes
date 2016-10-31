@@ -1,4 +1,4 @@
-## October 13 ([discuss](https://github.com/reactjs/core-notes/pull/31))
+## October 13 ([discuss](https://github.com/reactjs/core-notes/pull/33))
 
 ### Attendees
 
@@ -40,4 +40,4 @@ We are shifting our focus and will spend the rest of the year working on [Fiber]
 
 ------------
 
-Please feel free to discuss these notes in the [corresponding pull request](https://github.com/reactjs/core-notes/pull/31).
+Please feel free to discuss these notes in the [corresponding pull request](https://github.com/reactjs/core-notes/pull/33).
