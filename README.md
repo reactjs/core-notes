@@ -10,6 +10,10 @@ The repo format is inspired by [Ember Core Notes](https://github.com/emberjs/cor
 
 ## Recent Notes
 
+#### November
+
+* [November 3](https://github.com/reactjs/core-notes/blob/master/2016-11/november-03.md) ([discuss](https://github.com/reactjs/core-notes/pull/36))
+
 #### October
 
 * [October 27](https://github.com/reactjs/core-notes/blob/master/2016-10/october-27.md) ([discuss](https://github.com/reactjs/core-notes/pull/35))
