@@ -12,6 +12,9 @@ The repo format is inspired by [Ember Core Notes](https://github.com/emberjs/cor
 
 #### November
 
+* November 24 (no meeting)
+* November 17 (no meeting but we [released React 15.4.0](https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html)!)
+* [November 10](https://github.com/reactjs/core-notes/blob/master/2016-11/november-10.md) ([discuss](https://github.com/reactjs/core-notes/pull/37))
 * [November 3](https://github.com/reactjs/core-notes/blob/master/2016-11/november-03.md) ([discuss](https://github.com/reactjs/core-notes/pull/36))
 
 #### October
