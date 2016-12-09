@@ -12,6 +12,7 @@ The repo format is inspired by [Ember Core Notes](https://github.com/emberjs/cor
 
 #### December
 
+* [December 8](https://github.com/reactjs/core-notes/blob/master/2016-12/december-08.md) ([discuss](https://github.com/reactjs/core-notes/pull/39))
 * [December 1](https://github.com/reactjs/core-notes/blob/master/2016-12/december-01.md) ([discuss](https://github.com/reactjs/core-notes/pull/38))
 
 #### November
